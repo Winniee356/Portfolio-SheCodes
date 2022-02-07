@@ -85,10 +85,10 @@ left: 360px;
 }
 
 #weather-img {
-position: absolute;
+position: inherit;
 width: 560px;
 height: 560px;
-left: 650px;
+left: 50px;
 }
 
 @media (max-width: 960px) {
