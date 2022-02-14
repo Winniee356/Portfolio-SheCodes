@@ -41,6 +41,15 @@ p{
     padding: 160px 20px;
 }
 
+.hero h1{
+    font-size: 100px;
+    color: #272142;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #272142;
+    margin-bottom: 20px;
+}
+
 .hero p {
    font-size: 36px;
    font-weight: bold;
