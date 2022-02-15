@@ -278,7 +278,8 @@ left: 50px;
 }
 
 #links a:hover{
-    color: var(--accent-color);
+    color: var(--highlight-color);
+    background-color: var(--branding-color);
 }
 
 @media (max-width: 960px) {
