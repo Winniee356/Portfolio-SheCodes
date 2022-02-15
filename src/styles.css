@@ -200,6 +200,7 @@ left: 50px;
     height: 300px;
     margin-top: 80px;
     margin-bottom: 50px;
+    clip-path: circle(40%);
 }
 
 
