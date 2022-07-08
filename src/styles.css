@@ -263,6 +263,13 @@ height: 560px;
 left: 50px;
 }
 
+#react-img {
+    position: inherit;
+    width: 560px;
+    height: 560px;
+    left: 50px;
+    }
+
 #about-img {
     display: block;
     max-width: 100%;
