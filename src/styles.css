@@ -264,10 +264,17 @@ left: 50px;
 }
 
 #react-img {
-    position: -ms-page;
-    width: 560px;
-    height: 430px;
+    position: inherit;
+    width: 500px;
+    height: 350px;
     left: 30px;
+    }
+
+#center {
+        height: 500px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
 #about-img {
