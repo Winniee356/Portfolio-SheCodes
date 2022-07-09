@@ -242,7 +242,7 @@ footer .social-links a:hover {
 
 #hero-img {
     display:flex;
-    justify-content: center;
+    justify-content: inherit;
     position: center;
     width: 560px;
     height: 560px;
