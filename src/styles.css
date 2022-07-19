@@ -105,7 +105,9 @@ p{
     padding: 20px 5px;
   }
 
-  .tools 
+  .react{
+    max-height: 30px;
+  }
 
 .content-container {
     padding: 160px 20px;
